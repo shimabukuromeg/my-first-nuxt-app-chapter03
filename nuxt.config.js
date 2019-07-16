@@ -4,6 +4,9 @@ module.exports = {
       'auth'
     ]
   },
+  plugins: [
+    '~/plugins/logger'
+  ],
   /*
   ** Headers of the page
   */
